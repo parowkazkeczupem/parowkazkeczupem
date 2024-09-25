@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShadeDevot33
+- 👋 Hi, I’m @Shadee33
 - 👀 I’m interested in modeling in blender
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on making games
